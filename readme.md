@@ -8,12 +8,12 @@ basketball and PS4.
 I am still learning to use Github now but I think it is a very powerful tool for programmers working as a team.
 
 3.## Skills I learnt
--[x] c++
--[x] c
--[x] java
--[x] html
--[ ] python(to be continued)
--[x] VHDL
+- [x] c++
+- [x] c
+- [x] java
+- [x] html
+- [ ] python(to be continued)
+- [x] VHDL
 
 4. ## What have I done in this course?
 - [x] workshop 1
