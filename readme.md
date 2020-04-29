@@ -29,4 +29,5 @@ lkwsunny | male | 21
 
 6. ## Command Screenshot:
 ![screenshot](https://github.com/csci3251-2020/student-1155136675/blob/master/screenshot.jpeg)
-# remark: this readme.md is modified after capturing this screenshot
+
+ remark: this readme.md is modified after capturing this screenshot
