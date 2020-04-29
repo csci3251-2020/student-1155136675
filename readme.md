@@ -1,13 +1,13 @@
 
 
 1. # About me
-Hi there, I am Sunny. It's my honor to have you here. I am now studying computer engineering in CUHK. I want to become a programmer that can make a change to people. What's more? I love to play 
+Hi there, I am **Sunny**. It's my honor to have you here. I am now studying computer engineering in CUHK. I want to become a programmer that can make a change to people. What's more? I love to play 
 basketball and PS4. 
 
 2. ## Experience in Github
 I am still learning to use Github now but I think it is a very powerful tool for programmers working as a team.
 
-3.## Skills I learnt
+3. ## Skills I learnt
 - [x] c++
 - [x] c
 - [x] java
@@ -29,3 +29,4 @@ lkwsunny | male | 21
 
 6. ## Command Screenshot:
 ![screenshot](https://github.com/csci3251-2020/student-1155136675/blob/master/screenshot.jpeg)
+(remark: this readme.md is modified after capturing this screenshot
